@@ -1939,6 +1939,18 @@
     "link": "https://www.netacad.com/courses/networking/networking-essentials"
   },
   {
+      "icon": "fa-solid fa-globe",
+      "name": "Network Security",
+      "source": "mindluster",
+      "link": "https://www.mindluster.com/certificate/4011"
+  },
+  {
+      "icon": "fa-solid fa-globe",
+      "name": "Computer Networks CIS 345",
+      "source": "mindluster",
+      "link": "https://www.mindluster.com/certificate/8756/computer-networking"
+  },
+  {
     "icon": "fa-solid fa-globe",
     "name": "Basics of Computer Networking",
     "source": "Great Learning",
